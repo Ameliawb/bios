@@ -1,4 +1,4 @@
-<Amelia Winger-Bearskin is an artist/technologist who helps communities
+Amelia Winger-Bearskin is an artist/technologist who helps communities
 leverage emerging technologies to effect positive change in the world. She
 is a Developer Evangelist at
 [Contentful](http://contentful.com)in the SF Bay Area. She founded
@@ -23,5 +23,3 @@ cohort at [NEW INC](http://newinc.org), the incubator of the New Museum in NYC. 
 [Artist in Residence at Pioneer Works](https://pioneerworks.org/visual-arts-residency/) 2016 >, Her art is part of the permanent collections of the Guggenheim Museum
 and the McCord Museum. Amelia is Haudenosaunee (Iroquois) of the
 Seneca-Cayuga Nation of Oklahoma, Deer Clan.
-
->
