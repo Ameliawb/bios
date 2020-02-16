@@ -20,6 +20,6 @@ Amelia is the founder of the [Stupid Hackathon](http://www.stupidhackathon.com/)
 [Engadget Alternative Realities Prize](https://www.engadget.com/2017/08/18/the-grantees-of-engadget-s-500-000-immersive-arts-program/)
 for her VR experience [Your Hands Are Feet](https://www.engadget.com/2017/11/07/your-hands-are-feet-engadget-experience/). She was a member of the 2017-2018
 cohort at [NEW INC](http://newinc.org), the incubator of the New Museum in NYC. In 2016 she was an Oculus Launch Pad Fellow and an
-[Artist in Residence at Pioneer Works](https://pioneerworks.org/visual-arts-residency/) 2016 >, Her art is part of the permanent collections of the Guggenheim Museum
+[Artist in Residence at Pioneer Works](https://pioneerworks.org/visual-arts-residency/) 2016, Her art is part of the permanent collections of the Guggenheim Museum
 and the McCord Museum. Amelia is Haudenosaunee (Iroquois) of the
 Seneca-Cayuga Nation of Oklahoma, Deer Clan.
