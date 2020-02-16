@@ -1,7 +1,7 @@
 Amelia Winger-Bearskin is an artist/technologist who helps communities
 leverage emerging technologies to effect positive change in the world. She
 is a Developer Evangelist at
-[Contentful](http://contentful.com)in the SF Bay Area. She founded
+[Contentful](http://contentful.com) in the SF Bay Area. She founded
 [IDEA New Rochelle](http://www.ideanewrochelle.org/), which partnered with the NR Mayor&#8217;s office to develop
 citizen-focused VR/AR tools and was awarded the [2018 Bloomberg Mayors Challenge](https://mayorschallenge.bloomberg.org/2018-champion-cities/)
 \$1 million dollar grant to prototype their AR Citizen toolkit. She is a
