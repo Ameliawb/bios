@@ -1,1 +1,1 @@
-Amelia Winger-Bearskin is an Artist and Technologist who creates comedic work with XR,VR,AI,AR,AV and other esoteric systems of story and code.
+Amelia Winger-Bearskin is an Artist and Technologist who creates comedic work with XR,VR,AI,AR,AV and other esoteric systems of story and code. Amelia is the founder and host of [wampum.codes podcast](http://wampum.codes) and the [stupidhackathon.com](http://www.stupidhackathon.com). She is a Developer Evangelist for Contentful and host of the Contentful + Algolia Developer Podcast [DreamStacks](http://dreamstacks.buzzsprout.com).
