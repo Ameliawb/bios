@@ -23,3 +23,5 @@ cohort at [NEW INC](http://newinc.org), the incubator of the New Museum in NYC. 
 [Artist in Residence at Pioneer Works](https://pioneerworks.org/visual-arts-residency/) 2016, Her art is part of the permanent collections of the Guggenheim Museum
 and the McCord Museum. Amelia is Haudenosaunee (Iroquois) of the
 Seneca-Cayuga Nation of Oklahoma, Deer Clan.
+
+Amelia is the founder and host of [wampum.codes podcast](http://wampum.codes) and the host of Contentful + Algolia's Developer Podcast [DreamStacks](http://dreamstacks.buzzsprout.com).
