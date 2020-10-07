@@ -1,6 +1,6 @@
 Amelia Winger-Bearskin is an artist/technologist who helps communities
 leverage emerging technologies to effect positive change in the world. She
-is a Developer Evangelist at
+is a Senior Technical Training Specialist at
 [Contentful](http://contentful.com) in the SF Bay Area.  In 2019 she was an invited presenter to His Holiness Dalai Lama’s World Headquarters in Dharamsala for the Summit on Fostering Universal Ethics and Compassion. She founded
 [IDEA New Rochelle](http://www.ideanewrochelle.org/), which partnered with the NR Mayor&#8217;s office to develop
 citizen-focused VR/AR tools and was awarded the [2018 Bloomberg Mayors Challenge](https://mayorschallenge.bloomberg.org/2018-champion-cities/)
